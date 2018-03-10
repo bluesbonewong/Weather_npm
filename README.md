@@ -1,9 +1,9 @@
-##Installing
+## Installing
 Using npm:
 ```
 $ npm install -g bruce-weather
 ```
-##Example
+## Example
 get the your city's weather
 ```
 $ weather
